@@ -7,7 +7,7 @@ Movie Recommendation web App based on Content and Collaborative Filtering
           •	The app is used to get the similar movies and Tv show entered by the user or by recommending by popularity among other user having the similar tastes
           •	The Front-End of the app was developed using React and JavaScript and the was connected through the Django framework
           
- **Other Person worked on the Projecct with me: Himanshu Bishnoi - https://github.com/hbishnoi**
+ **Other Person worked on the Project with me: Himanshu Bishnoi - https://github.com/hbishnoi**
 
 **Django is a Python framework, so we must install Latest Python to machine.**
 
